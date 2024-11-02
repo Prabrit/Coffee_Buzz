@@ -1,7 +1,9 @@
 # **Coffee Shop Website**
 
 This is a basic coffee shop website built using HTML and CSS .
-Here is the link for the demo website - https://coffee-buzz.vercel.app/
+Here is the link for the demo website - https://coffee-buzz.vercel.app
+
+
 **Features:**
 
   * **Menu:** There is a manu pdf which can be downloaded by clicking the manu button .
