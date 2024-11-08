@@ -43,4 +43,5 @@ Feel free to contribute to this project by:
   * **Creating a Pull Request:** Submit your changes for review and potential merging.
 
 ### **Enjoy your coffee\!**
+![img](https://pagegpt.pro/api/utilities/image/coffee-shop-logo-maker/confirmed/1694746348854-48680.png)
 
